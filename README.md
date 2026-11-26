@@ -26,7 +26,7 @@
 <hr>
 
 <!-- SOBRE MIM -->
-<h2>👩‍💻 Sobre mim</h2>
+<h2> Sobre mim</h2>
 
 <p>
 Sou Bacharel em Tecnologia da Informação e estou aprofundando meus estudos em Tecnologia e Cultura Digital aplicada à Educação.
@@ -41,7 +41,7 @@ Meus principais interesses estão na interseção entre desenvolvimento de softw
 </p>
 
 <!-- TECNOLOGIAS -->
-<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
+<h2 align="center">Tecnologias e Ferramentas</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -65,7 +65,7 @@ Meus principais interesses estão na interseção entre desenvolvimento de softw
 </p>
 
 <!-- ESTUDOS -->
-<h2>📚 Atualmente estudando</h2>
+<h2> Atualmente estudando</h2>
 
 - Desenvolvimento com Python
 - Estruturas de dados e lógica de programação
@@ -74,7 +74,7 @@ Meus principais interesses estão na interseção entre desenvolvimento de softw
 - Desenvolvimento web
 
 <!-- ESTATÍSTICAS -->
-<h2 align="center">📊 Minhas estatísticas no GitHub</h2>
+<h2 align="center"> Minhas estatísticas no GitHub</h2>
 
 <p align="center">
   <img
