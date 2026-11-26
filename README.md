@@ -1,17 +1,17 @@
 
-<!-- BANNER -->
+<!-- BANNER PRINCIPAL -->
 <p align="center">
   <img
-    src="./assets/banner.png"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:6C63FF&height=220&section=header&text=EDUARDA%20ALMEIDA&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=Technology%20%7C%20Python%20%7C%20Digital%20Solutions&descSize=15&descAlignY=60"
     width="100%"
-    alt="Eduarda Almeida - Technology and Development">
+    alt="Eduarda Almeida - Technology and Python">
 </p>
 
-<!-- GIF -->
+<!-- ANIMAÇÃO -->
 <p align="center">
   <img
-    src="./assets/animation.gif"
-    width="160"
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="240"
     alt="Animação de programação">
 
 <h1 align="center">Olá! Eu sou a Eduarda 👋</h1>
@@ -54,8 +54,22 @@ Meu interesse está principalmente na interseção entre desenvolvimento, dados,
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -78,5 +92,5 @@ Meu interesse está principalmente na interseção entre desenvolvimento, dados,
 <hr>
 
 <p align="center">
-  Construindo, aprendendo e compartilhando conhecimento.
+Aprendendo, testando, errando e criando. Afinal, é assim que a gente descobre o que é capaz de fazer com a tecnologia.
 </p>
