@@ -91,6 +91,6 @@ Meus principais interesses estão na interseção entre desenvolvimento de softw
 
 <!-- FRASE FINAL -->
 <p align="center">
-  <strong>Curiosa por natureza, teimosa por profissão. Menos teoria sem prática, mais ideias saindo do papel.  🚀</strong>
+  <strong>Curiosa por natureza, teimosa por profissão. Menos teoria sem prática, mais ideias saindo do papel.  </strong>
 </p>
 
