@@ -17,7 +17,7 @@
 
 </p>
 
-<h1 align="center">Olá! Eu sou a Eduarda 👋</h1>
+<h1 align="center">Olá! Eu sou a Eduarda </h1>
 
 <p align="center">
   Tecnologia da Informação | Python | Desenvolvimento
