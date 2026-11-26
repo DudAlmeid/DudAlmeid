@@ -7,12 +7,14 @@
     alt="Eduarda Almeida - Tecnologia, Python e Soluções Digitais">
 </p>
 
-<!-- ANIMAÇÃO -->
+<!-- ANIMAÇÃO --> 
 <p align="center">
   <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="240"
-    alt="Animação de programação">
+    src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif"
+    width="260"
+    alt="Garota programando no notebook">
+</p>
+
 </p>
 
 <h1 align="center">Olá! Eu sou a Eduarda 👋</h1>
